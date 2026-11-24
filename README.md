@@ -552,3 +552,5 @@ Contributions are welcome. Add a service with the [submission form](https://gith
 <p align="center">
   <sub>Curated with ❤️ for the trading and quant community.</sub>
 </p>
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
